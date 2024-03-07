@@ -99,7 +99,7 @@ body {
     font-family: var(--fonte-secundaria);
 }
 
-.apresentacao_link_link:hover {
+.apresentacao_link_navegacao:hover {
     background-color: var(--cor-hover);
     padding: 2%;
     cursor: pointer;
