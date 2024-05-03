@@ -3,7 +3,8 @@
 ## Olá bem vindo ao meu projeto portifólio
 
 
-![OIP](https://github.com/Lro7/portfolio/assets/162516198/e1161809-c905-4606-9c45-f60d3e667bc5)
+  ![2024-05-03 (3)](https://github.com/Lro7/portfolio/assets/162516198/8d1f5af0-c1c7-4f63-a20b-fa488dc64b7a)
+
 
 ## Ferramentas utilizadas:
 
@@ -19,4 +20,4 @@
 
 ### Linkedin: https://www.linkedin.com/in/lauro-custodio-a28b8a8b
 
-```
+
