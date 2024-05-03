@@ -13,10 +13,6 @@
 
 * Flex-box
 
-* Swiper JS
-
-* Media Queries
-
 ## Feito por:
 
 ### Lauro S. Custodio
